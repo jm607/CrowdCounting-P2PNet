@@ -1,5 +1,3 @@
-torch
-torchvision
 tensorboardX
 easydict
 pandas
@@ -7,4 +5,4 @@ numpy
 scipy
 matplotlib
 Pillow
-opencv-python
+opencv-contrib-python
